@@ -1,2 +1,2 @@
 # SampleVerilogCoding
-This is is a sample of some of the Verilog coding that i have done 
+These files contain some of my own personal experiences with verilog coding. This code is commented and follows the appropriate format
